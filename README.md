@@ -3,5 +3,5 @@ https://github.com/user-attachments/assets/e4f7423c-b974-4832-8876-b5dd72719255
 ## Button Description:
 This is a button that works while hovering(from scrath)
 
-[!NOTE]
-while copying the code make sure to download the pictures available or simply delete ```bash <img></img> ``` and replace it with a ```bash <div></div> ``` containing the desired name of the button  
+>[!NOTE]
+while copying the code make sure to download the pictures available or simply delete ``` <img></img> ``` and replace it with a ``` <div></div> ``` containing the desired name of the button  
